@@ -13,7 +13,8 @@ module.exports = {
   },
   plugins: ["react"],
   rules: {
-    "prettier/prettier": ["error", { singleQuote: true }],
+    // "prettier/prettier": ["error", { singleQuote: true }],
+    // "prettier/prettier": ["error", { singleQuote: true }],
     "react/function-component-definition": 0,
     "import/extensions": 0,
     "react/prop-types": 0,
